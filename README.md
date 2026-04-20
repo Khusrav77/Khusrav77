@@ -1,8 +1,53 @@
-- 👋 Hello everyone!, I’m Khusrav.
-- 👀  I’m interested in iOS and I'm passionate about the world of mobile development, with a particular focus on iOS app development. Currently, my main area of interest lies in mastering the Swift programming language.
-- 📫 How to reach me www.linkedin.com/in/khusrav-safiev 
+ Khusrav | iOS & Java Developer
 
-<!---
-Khusrav77/Khusrav77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 👨‍💻 About Me
+
+iOS & Backend developer focused on building scalable applications and clean architecture solutions.
+
+- 📱 Swift (SwiftUI, UIKit)
+- ☕ Java (Spring Boot)
+- 🧱 Clean Architecture, SOLID
+- 🚀 Full-stack mindset (Mobile + Backend)
+- 📅 Coding since 2018
+
+ 🛠 Core Tech Stack
+
+ 📱 iOS
+
+- Swift, SwiftUI, UIKit
+- MVVM, VIPER, MVP
+- Async/Await, GCD
+- REST API, URLSession
+- Core Data
+
+ ☕ Backend
+
+- Java, Spring Boot
+- Spring Data, Spring Security
+- PostgreSQL
+- REST APIs
+- Docker
+
+
+⚙️ Tools
+
+- Git
+- Xcode, IntelliJ IDEA
+- Postman
+
+
+📌 Projects
+
+- 🛒 Food Delivery App — SwiftUI + Firebase
+- 📰 News App — Clean Architecture, async/await
+- 🤖 Telegram Bot — Java + Spring Boot
+
+
+📫 Contact
+
+- Telegram: @Khusrav
+- Email: [shh85b@gmail.com](mailto:shh85b@gmail.com)
+
+ ⚡ Focus
+
+Building reliable iOS apps and scalable backend services.
