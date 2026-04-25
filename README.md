@@ -45,7 +45,7 @@ iOS & Backend developer focused on building scalable applications and clean arch
 
 📫 Contact
 
-- Telegram: @Khusrav
+- Telegram: @SKhusrav
 - Email: [shh85b@gmail.com](mailto:shh85b@gmail.com)
 
  ⚡ Focus
